@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "%1$s è stato giustiziato da %2$s",
   "death.attack.stellarity.tamaris_execute.2": "%2$s ha mostrato quanto sia 999 di danno a %1$s",
   "death.attack.stellarity.tamaris_execute.3": "%2$s ha prosciugato la vita a %1$s",
+  "death.attack.stellarity.stellar_striker.1": "%1$s was forced to undergo nuclear fusion by %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s was starstruck by %2$s",
   "enchantment.stellarity.ambush": "Imboscata",
   "enchantment.stellarity.ambush.description": "Infligge danni extra ai mob che non ti stanno prendendo di mira attivamente",
   "enchantment.stellarity.critical_strike": "Colpo critico",

@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "%1$s був прилюдно страчений %2$s",
   "death.attack.stellarity.tamaris_execute.2": "%1$s узяв на себе 999 шкоди від катувань %2$s",
   "death.attack.stellarity.tamaris_execute.3": "%1$s втратив залишки свого здоровʼя, втікаючи від %2$s",
+  "death.attack.stellarity.stellar_striker.1": "%1$s was forced to undergo nuclear fusion by %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s was starstruck by %2$s",
   "enchantment.stellarity.ambush": "Напад",
   "enchantment.stellarity.ambush.description": "Завдає додаткової шкоди мобам, які не націлені на носія",
   "enchantment.stellarity.critical_strike": "Critical Strike",

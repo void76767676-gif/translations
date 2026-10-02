@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "TEXTO A SER ADICIONADO! IGNORE POR ENQUANTO",
   "death.attack.stellarity.tamaris_execute.2": "TEXTO A SER ADICIONADO! IGNORE POR ENQUANTO",
   "death.attack.stellarity.tamaris_execute.3": "TEXTO A SER ADICIONADO! IGNORE POR ENQUANTO",
+  "death.attack.stellarity.stellar_striker.1": "%1$s was forced to undergo nuclear fusion by %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s was starstruck by %2$s",
   "enchantment.stellarity.ambush": "Emboscada",
   "enchantment.stellarity.ambush.description": "Causa dano extra a criaturas que não estão perseguindo você",
   "enchantment.stellarity.critical_strike": "Ataque Crítico",

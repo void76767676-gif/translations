@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "%1$s 被 %2$s 公开处刑（待更新源文本）",
   "death.attack.stellarity.tamaris_execute.2": "%1$s 被迫因 %2$s 看到999伤害是什么样的（待更新源文本）",
   "death.attack.stellarity.tamaris_execute.3": "%1$s 的血被 %2$s 吸干了（待更新源文本）",
+  "death.attack.stellarity.stellar_striker.1": "%1$s was forced to undergo nuclear fusion by %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s was starstruck by %2$s",
   "enchantment.stellarity.ambush": "埋伏",
   "enchantment.stellarity.ambush.description": "对没有对你产生仇恨的怪物造成额外伤害",
   "enchantment.stellarity.critical_strike": "暴击之刃",

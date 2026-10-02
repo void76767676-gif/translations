@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "%1$s wurde öffentlich von %2$s hingerichtet",
   "death.attack.stellarity.tamaris_execute.2": "%1$s wurde von %2$s gezwungen zu sehen, wie sich 999 Schaden anfühlen",
   "death.attack.stellarity.tamaris_execute.3": "%1$s wurde die verbleibende Gesundheit von %2$s genommen",
+  "death.attack.stellarity.stellar_striker.1": "%1$s was forced to undergo nuclear fusion by %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s was starstruck by %2$s",
   "enchantment.stellarity.ambush": "Hinterhalt",
   "enchantment.stellarity.ambush.description": "Fügt Kreaturen, die dich nicht aktiv angreifen, zusätzlichen Schaden zu",
   "enchantment.stellarity.critical_strike": "Kritischer Treffer",

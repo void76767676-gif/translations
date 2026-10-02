@@ -200,6 +200,8 @@
   "death.attack.stellarity.tamaris_execute.1": "%1$s был прилюдно казнён %2$s",
   "death.attack.stellarity.tamaris_execute.2": "%2$s заставил %1$s почувствовать, что значит 999 урона",
   "death.attack.stellarity.tamaris_execute.3": "%2$s забрал остатки здоровья %1$s",
+  "death.attack.stellarity.stellar_striker.1": "%1$s подвергся термоядерному синтезу с помощью %2$s",
+  "death.attack.stellarity.stellar_striker.2": "%1$s был ослеплён сиянием звёзд %2$s",
   "enchantment.stellarity.ambush": "Засада",
   "enchantment.stellarity.ambush.description": "Наносит дополнительный урон мобам, которые не нацелены на вас.",
   "enchantment.stellarity.critical_strike": "Критический удар",
